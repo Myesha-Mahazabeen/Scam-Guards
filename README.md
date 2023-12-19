@@ -14,13 +14,15 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 All of the team-members equally contributed to the project. 
 Each of the members did their own model implementation code and uploaded in their desgnated folders under "Codes" folder.
 
-*Ayon Kumar Das*: Responsible for Random Forest model implementation 
+**Ayon Kumar Das**: Responsible for Random Forest model implementation 
 
 
-*Myesha Mahazabeen*: Responsible for Long Short Term Memory(LSTM) model implementation 
+
+**Myesha Mahazabeen**: Responsible for Long Short Term Memory(LSTM) model implementation 
 
 
-*Najia Jahan*: Responsible for Logistic Regression model implementation.
+
+**Najia Jahan**: Responsible for Logistic Regression model implementation.
 
 Implemented Logistic Regression Code. 
 
