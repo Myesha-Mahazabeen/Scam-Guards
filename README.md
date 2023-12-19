@@ -21,6 +21,8 @@ Each of the members did their own model implementation code and uploaded in thei
 
 
 *Najia Jahan*: Responsible for Logistic Regression model implementation.
-Implemented Logistic Regression Code
+
+Implemented Logistic Regression Code. 
+
 In the report, wrote about the Logistic Regression Model Overview, Comparison of the Graphs and Matrices.
 
