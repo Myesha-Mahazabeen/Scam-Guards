@@ -8,6 +8,7 @@ This project introduces a credit card fraud detection model designed to learn fr
 3. Najia Jahan
 
 **Dataset**
+Our project's dataset, 'creditcard.csv,' is quite large, exceeding 25MB, and GitHub doesn't permit uploads of files this size. Please download the dataset from the following link:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 **Team Contributions**
