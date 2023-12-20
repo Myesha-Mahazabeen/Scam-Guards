@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 ## Team Contributions
 All of the team-members equally contributed to the project. 
-Each of the members did their own model implementation code and uploaded in their desgnated folders under "Codes" folder. The final Report is also uploaded under "Report" folder. And The group prsentation sildes is also included under "Presentation" folder.
+Each of the members did their own model implementation code and uploaded in their desgnated folders under "Codes" folder. Additionally, the final Report is uploaded under "Report" folder. And the group prsentation sildes is also included under "Presentation" folder.
 
 **Ayon Kumar Das**: Responsible for Random Forest model implementation 
 
