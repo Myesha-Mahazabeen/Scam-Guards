@@ -43,7 +43,8 @@ Here is a breakdown of the report's content, highlighting contributions from eac
 | Precision-Recall Curve             |   Myesha Mahazabeen               |
 | Correlation Matrix                 |   Najia Jahan               |
 | Confusion Matrix                   |   Najia Jahan               |
-| Challenges                               | Ayon Kumar Das                |
+| Challenges                               | Ayon Kumar Das         |
+| Conclusion                               | Everyone         |
 | References                               |      Everyone           |
 
 
