@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Model
 
-This project introduces a credit card fraud detection model designed to learn from real-time data, prioritizing recall and precision. Leveraging Logistic Regression, Long Short Term Memory (LSTM), and Random Forest models, we aim to detect and mitigate the impact of fraudulent activity in electronic transactions. The project includes a comparative analysis of these models to assess their effectiveness.
+This project introduces a credit card fraud detection model designed to learn from real-time data, with a primary focus on optimizing recall and precision. By leveraging Logistic Regression, Long Short Term Memory (LSTM), and Random Forest models, our goal is to detect and mitigate the impact of fraudulent activity in electronic transactions. The project encompasses a thorough comparative analysis of these models to evaluate their effectiveness.
 
 ## Team Members
 1. Ayon Kumar Das
