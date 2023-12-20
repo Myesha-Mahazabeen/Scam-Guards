@@ -23,7 +23,7 @@ Each of the members did their own model implementation code and uploaded in thei
 
 
 
-**Najia Jahan**: Responsible for Logistic Regression model implementation.
+**Najia Jahan**: Responsible for Logistic Regression model implementation
 
 ## Report Contributions
 Here is a breakdown of the report's content, highlighting contributions from each team member.
