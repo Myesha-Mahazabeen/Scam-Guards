@@ -11,7 +11,7 @@ This project introduces a credit card fraud detection model designed to learn fr
 Our project's dataset, 'creditcard.csv,' is quite large, exceeding 25MB, and GitHub doesn't permit uploads of files this size. Please download the dataset from the following link:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-## Team Contributions: 
+## Team Contributions
 All of the team-members equally contributed to the project. 
 Each of the members did their own model implementation code and uploaded in their desgnated folders under "Codes" folder.
 
@@ -25,7 +25,7 @@ Each of the members did their own model implementation code and uploaded in thei
 
 **Najia Jahan**: Responsible for Logistic Regression model implementation.
 
-## Report Contributions:
+## Report Contributions
 Here is a breakdown of the report's content, highlighting contributions from each team member.
 | Table of Content                         | Contributors      |
 |------------------------------------------|-----------------|
@@ -48,4 +48,10 @@ Here is a breakdown of the report's content, highlighting contributions from eac
 | References                               |      Everyone           |
 
 
-
+## Other Contributions
+| Task                         | Contributors      |
+|------------------------------------------|-----------------|
+| Github Repo Creation                               | Myesha Mahazabeen        |
+| Presentation Slides                                 | Najia Jahan       |
+| Team Meetings Arrangements                                 | Ayon Kumar Das       |
+| Research and Brainstorming                                 | Everyone       |
