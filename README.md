@@ -19,7 +19,7 @@ Each of the members did their own model implementation code and uploaded in thei
 
 
 
-**Myesha Mahazabeen**: Responsible for Long Short Term Memory(LSTM) model implementation 
+**Myesha Mahazabeen**: Responsible for Long Short Term Memory (LSTM) model implementation 
 
 
 
