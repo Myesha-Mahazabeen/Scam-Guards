@@ -31,7 +31,7 @@ Here is a breakdown of the report's content, highlighting contributions from eac
 |------------------------------------------|-----------------|
 | Abstract                                 | Everyone       |
 | Introduction                             | Everyone      |
-| Dataset Overview                         | Ayon Kumar Das    |
+| Dataset Overview                         | Najia Jahan    |
 | Machine Learning Models                   |   Everyone              |
 | Logistic Regression                  |  Najia Jahan               |
 | Long Short Term Memory (LSTM)        | Myesha Mahazabeen             |
@@ -44,7 +44,7 @@ Here is a breakdown of the report's content, highlighting contributions from eac
 | Correlation Matrix                 |   Najia Jahan               |
 | Confusion Matrix                   |   Najia Jahan               |
 | Challenges                               | Ayon Kumar Das         |
-| Conclusion                               | Everyone         |
+| Conclusion                               | Ayon Kumar Das        |
 | References                               |      Everyone           |
 
 
