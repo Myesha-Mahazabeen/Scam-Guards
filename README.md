@@ -1,17 +1,17 @@
-**Credit Card Fraud Detection Model**
+# Credit Card Fraud Detection Model
 
 This project introduces a credit card fraud detection model designed to learn from real-time data, prioritizing recall and precision. Leveraging Logistic Regression, Long Short Term Memory (LSTM), and Random Forest models, we aim to detect and mitigate the impact of fraudulent activity in electronic transactions. The project includes a comparative analysis of these models to assess their effectiveness.
 
-**Team Members**
+## Team Members
 1. Ayon Kumar Das
 2. Myesha Mahazabeen
 3. Najia Jahan
 
-**Dataset**
+## Dataset
 Our project's dataset, 'creditcard.csv,' is quite large, exceeding 25MB, and GitHub doesn't permit uploads of files this size. Please download the dataset from the following link:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-**Team Contributions**
+## Team Contributions: 
 All of the team-members equally contributed to the project. 
 Each of the members did their own model implementation code and uploaded in their desgnated folders under "Codes" folder.
 
@@ -25,7 +25,26 @@ Each of the members did their own model implementation code and uploaded in thei
 
 **Najia Jahan**: Responsible for Logistic Regression model implementation.
 
-Implemented Logistic Regression Code. 
+## Report Contributions:
+Here is a breakdown of the report's content, highlighting contributions from each team member.
+| Table of Content                         | Contributors      |
+|------------------------------------------|-----------------|
+| Abstract                                 | Everyone       |
+| Introduction                             | Everyone      |
+| Dataset Overview                         | Ayon Kumar Das    |
+| Machine Learning Models                   |   Everyone              |
+| Logistic Regression                  |  Najia Jahan               |
+| Long Short Term Memory (LSTM)        | Myesha Mahazabeen             |
+| Random Forest                         | Ayon Kumar Das               |
+| Comparison of the Models                  |Everyone             |
+| Accuracy Scores Comparison            | Myesha Mahazabeen             |
+| Comparison of the Graphs & Matrices   |   Everyone              |
+| ROC Curve                          |   Myesha Mahazabeen               |
+| Precision-Recall Curve             |   Myesha Mahazabeen               |
+| Correlation Matrix                 |   Najia Jahan               |
+| Confusion Matrix                   |   Najia Jahan               |
+| Challenges                               | Ayon Kumar Das                |
+| References                               |      Everyone           |
 
-In the report, wrote about the Logistic Regression Model Overview, Comparison of the Graphs and Matrices.
+
 
