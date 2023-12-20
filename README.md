@@ -18,9 +18,7 @@ Each of the members did their own model implementation code and uploaded in thei
 **Ayon Kumar Das**: Responsible for Random Forest model implementation 
 
 
-
 **Myesha Mahazabeen**: Responsible for Long Short Term Memory (LSTM) model implementation 
-
 
 
 **Najia Jahan**: Responsible for Logistic Regression model implementation
